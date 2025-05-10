@@ -1,0 +1,41 @@
+var_name,description
+total_contract_labor_expenses,Total expenses for contract labor ($)
+total_hired_labor_expenses,Total expenses for hired labor ($)
+hired_labor_cat_1,Number of hired workers: 1-4
+hired_labor_cat_3,Number of hired workers: 10+
+hired_labor_cat_2,Number of hired workers: 5-9
+total_hired_labor,Total number of hired workers
+rent_costs_dollars,Total rent costs (land and buildings)
+rent_burdened_operations,Total operations renting land and buildings
+total_acres_cropland,Total cropland (in acres)
+total_farm_value,Total asset value of land and buildings ($)
+total_farm_value_per_acre,Total asset value of land and buildings ($/acre)
+total_farms,Total farm operations
+total_acres_farmland,"Total farmland area, including non-agricultural (in acres)"
+total_income,Total income from commodity sales ($)
+net_income_operations,Net income of operations ($)
+net_income_producers,Net income of producers ($)
+acres_owned_part_owners,Acres owned by part-owners
+acres_rented_part_owners,Acres rented by part-owners
+acres_harvested_full_owners,Cropland harvested by full owners (in acres)
+acres_harvested_part_owners,Cropland harvested by part-owners (in acres)
+acres_harvested_tenants,Cropland harvested by tenants (in acres)
+acres_operated_full_owners,Area operated by full owners (in acres)
+acres_operated_part_owners,Area operated by part-owners (in acres)
+acres_operated_tenants,Area operated by tenants (in acres)
+total_producers,Total producers
+producers_agecat_2,Producers (age 25-34)
+producers_agecat_3,Producers (age 35-44)
+producers_agecat_4,Producers (age 45-54)
+producers_agecat_5,Producers (age 55-64)
+producers_agecat_6,Producers (age 65-74)
+producers_agecat_7,Producers (age 75 and above)
+producers_agecat_1,Producers (age 24 and below)
+producers_avg_age,"Producers, avg. age"
+producers_avg_career,Producers avg. career length
+total_full_time_farmers,Total producers with farming as primary occupation
+housed_off_farm,Producers not housed on operation
+housed_on_farm,Producers housed on operation
+producers_mid_career,Mid-career producers (6-10 years)
+producers_late_career,Late-career producers (11+ years)
+producers_early_career,Early-career producers (5 or fewer years)

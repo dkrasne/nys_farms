@@ -1,0 +1,13 @@
+var_name,description
+number_small_farms,Number small farms (1.0 to 49.9 acres harvested cropland)
+number_medium_farms,Number medium farms (50 to 499 acres harvested cropland)
+number_large_farms,Number large farms (500 or more acres harvested cropland)
+total_farms_harvesting,Total farm operations harvesting
+number_high_sales_farms,"High-sales farm operations (250,000 or MORE $)"
+number_medium_sales_farms,"Medium-sales farm operations (50,000 to 249,999 $)"
+number_low_sales_farms,"Low-sales farm operations (less than 50,000 $)"
+total_farms_selling,Total farm operations selling commodities
+number_full_owner_operators,Number full-owner farm operators
+number_part_owner_operators,Number part-owner farm operators
+number_tenant_operators,Number tenant farm operators
+total_full_time_farmers,Total producers with farming as primary occupation
