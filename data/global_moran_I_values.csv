@@ -1,0 +1,12 @@
+variable,moran_I
+full_time_farmers_per_pop,0.12889241119418524
+full_owner_operators_per_pop,0.04971675208552156
+part_owner_operators_per_pop,0.09912686459737606
+tenant_operators_per_pop,0.04985114676980085
+farm_to_dwelling_ratio,0.08063771414638536
+seasonal_vacancy_per_sqmi,0.01386811096042342
+renter_hh_per_sqmi,0.014083068281078198
+owner_hh_per_sqmi,0.013805394329956339
+income_median,0.08863644354419309
+rent_trimean,0.04890687760030579
+rentpctincome_median,0.10625121563981711
